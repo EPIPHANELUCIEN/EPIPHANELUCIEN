@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @EPIPHANELUCIEN
+- 👋 Hi, I’m @EPIPHANE_LUCIEN
 - 👀 I’m interested in html css js php and other
 - 🌱 I’m currently learning html css php 
 - 💞️ I’m looking to collaborate on ...
